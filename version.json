@@ -1,8 +1,8 @@
 {
   "latest": "1.4",
-  "downloadUrl": "https://github.com/spsocial/PD-Yum-Clip/releases/latest",
-  "changelog": "✨ PD Yum Clip v1.4 — ยำคลิปสุ่มไม่ซ้ำหลายผลลัพธ์ + พากย์ Gemini/VoiceClone + ซับ + โพสต์ Facebook อัตโนมัติ",
+  "downloadUrl": "https://github.com/spsocial/PD-Yum-Clip/releases/download/v1.4/PD-Yum-Clip-v1.4.zip",
+  "changelog": "✨ PD Yum Clip v1.4 — เพิ่มระบบแจ้งเตือนอัปเดตในตัว (v1.5+ จะเด้งเตือนให้โหลดเอง) + ยำคลิปสุ่มไม่ซ้ำ + พากย์ Gemini/VoiceClone + ซับ + โพสต์ Facebook อัตโนมัติ",
   "versions": [
-    { "version": "1.4", "note": "เวอร์ชันปัจจุบัน — ยำคลิป + พากย์ + ซับ + โพสต์ FB อัตโนมัติ" }
+    { "version": "1.4", "note": "🆕 ระบบแจ้งเตือนอัปเดตในตัว (แบนเนอร์ + จุดแดงบนปุ่มตั้งค่า) + ยำคลิป + พากย์ + ซับ + โพสต์ FB อัตโนมัติ" }
   ]
 }
